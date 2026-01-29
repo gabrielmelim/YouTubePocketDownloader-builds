@@ -31,6 +31,8 @@ O aplicativo **não armazena sua senha**, apenas reutiliza a sessão já logada 
 3. Baixe o arquivo:
    - `.exe` diretamente **ou**
    - `.zip` contendo o executável.
+   
+  Para baixar o programa, verifique sempre a última versão disponível em **Releases**: <https://github.com/gabrielmelim/YouTubePocketDownloader-builds/releases>
 
 ---
 

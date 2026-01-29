@@ -37,18 +37,19 @@ O aplicativo **não armazena sua senha**, apenas reutiliza a sessão já logada 
 ## Como usar
 
 1. Extraia o `.zip` (se aplicável) e execute `YouTubePocketDownloader.exe`.
-2. No campo **YouTube URL**, cole o link do vídeo ou playlist.
-3. Em **Salvar em**, escolha a pasta onde os arquivos serão gravados.
-4. Escolha:
+2. Windows pode acionar um alerta ao software por não ter uma licença paga, entao basta permitir que tudo irá funcionar.
+3. No campo **YouTube URL**, cole o link do vídeo ou playlist.
+4. Em **Salvar em**, escolha a pasta onde os arquivos serão gravados.
+5. Escolha:
    - A **resolução** (default/1080p/720p/480p) – somente para WEBM/MP4.
    - O **formato**:
      - WEBM Original (sem conversão)
      - MP4 (converter)
      - MP3 (converter)
-5. Clique em **Baixar**:
+6. Clique em **Baixar**:
    - O primeiro vídeo começa imediatamente.
    - Os próximos entram na **fila**, mostrada na interface.
-6. Para interromper tudo, use o botão **Parar Tudo**:
+7. Para interromper tudo, use o botão **Parar Tudo**:
    - Cancela o download atual, limpa a fila e remove arquivos temporários.
 
 ---
